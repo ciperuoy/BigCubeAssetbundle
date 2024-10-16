@@ -9,8 +9,11 @@ Please dm "ciperuoy" on discord if there is problem.
 
 # How to download?
 You must first have Gorilla Tag modded with [The latest release of BepInEx](https://github.com/BepInEx/BepInEx/releases)
+
 After successfully having your Gorilla Tag modded with BepInEx. Please download the latest release of this mod.
+
 Place the mod in plugins, then load up your game.
+
 You should have it!!
 
 Thank you for downloading my mod! (Assetbundle but whatever right?)
